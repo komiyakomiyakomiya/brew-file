@@ -31,12 +31,13 @@ cask iterm2
 cask mysqlworkbench
 cask skype
 cask teamviewer
+cask visual-studio-code
 
 tap caskroom/cask
 cask docker
 cask google-japanese-ime
 cask resolutionator
-cask visual-studio-code
+cask virtualbox
 
 tap caskroom/fonts
 cask font-myrica
