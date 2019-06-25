@@ -6,6 +6,8 @@ brew autoconf
 brew gdbm
 brew gettext
 brew git
+brew hadolint
+brew iproute2mac
 brew jq
 brew libidn2
 brew libunistring
@@ -25,19 +27,22 @@ brew wget
 brew xz
 
 tap homebrew/cask
-cask clipy
+cask anki
+cask commander-one
 cask google-chrome
 cask iterm2
-cask mysqlworkbench
-cask skype
-cask teamviewer
-cask visual-studio-code
+cask kitematic
+cask resolutionator
+cask spectacle
+cask virtualbox
+cask xmind
 
 tap caskroom/cask
-cask docker
+cask clipy
 cask google-japanese-ime
-cask resolutionator
-cask virtualbox
+cask mysqlworkbench
+cask teamviewer
+cask zoomus
 
 tap caskroom/fonts
 cask font-myrica
@@ -50,6 +55,8 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
+cask docker
 cask font-myricam
 cask kindle
-cask spectacle
+cask skype
+cask visual-studio-code
