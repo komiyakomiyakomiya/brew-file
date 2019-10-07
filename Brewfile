@@ -33,8 +33,8 @@ brew xz
 
 tap homebrew/cask
 cask alfred
-cask clipy
-cask dropbox
+cask chromedriver
+cask docker
 cask google-backup-and-sync
 cask google-cloud-sdk
 cask gyazo
@@ -48,6 +48,7 @@ cask zoomus
 
 tap caskroom/cask
 cask anki
+cask dropbox
 cask google-chrome
 cask iterm2
 cask pgadmin4
@@ -65,7 +66,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask docker
+cask clipy
 cask font-myricam
 cask google-japanese-ime
 cask kitematic
