@@ -72,6 +72,3 @@ cask google-japanese-ime
 cask kitematic
 cask skype
 cask visual-studio-code
-
-# App Store applications
-appstore 1208561404 カスペルスキー セキュアコネクション (2.2.1)
