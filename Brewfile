@@ -16,13 +16,13 @@ brew mas
 brew mysql
 brew nodebrew
 brew oniguruma
-brew openssl
 brew openssl@1.1
 brew p7zip
 brew pcre2
 brew pipenv
 brew pkg-config
 brew postgresql
+brew protobuf@3.7
 brew python
 brew readline
 brew sqlite
@@ -42,9 +42,12 @@ cask kindle
 cask mysqlworkbench
 cask resolutionator
 cask spectacle
-cask virtualbox
-cask vlc
-cask zoomus
+cask teamviewer
+cask visual-studio-code
+cask xmind
+
+tap beeftornado/rmtree
+brew brew-rmtree
 
 tap caskroom/cask
 cask anki
@@ -52,8 +55,8 @@ cask dropbox
 cask google-chrome
 cask iterm2
 cask pgadmin4
-cask teamviewer
-cask xmind
+cask spotify
+cask vlc
 
 tap caskroom/fonts
 cask font-myrica
@@ -71,4 +74,5 @@ cask font-myricam
 cask google-japanese-ime
 cask kitematic
 cask skype
-cask visual-studio-code
+cask virtualbox
+cask zoomus
