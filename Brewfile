@@ -37,34 +37,41 @@ brew xz
 
 tap homebrew/cask
 cask adobe-acrobat-reader
+cask alfred
 cask anki
+cask chromedriver
 cask clipy
+cask dash
 cask docker
+cask dropbox
 cask google-backup-and-sync
+cask google-chrome
 cask google-cloud-sdk
+cask google-japanese-ime
 cask gyazo
+cask iterm2
 cask kindle
+cask kitematic
 cask mysqlworkbench
+cask pgadmin4
 cask resolutionator
+cask skype
 cask slack
-cask teamviewer
+cask spectacle
+cask virtualbox
 cask visual-studio-code
+cask vlc
 cask xmind
+cask zoomus
 
 tap beeftornado/rmtree
 brew brew-rmtree
 
 tap caskroom/cask
-cask alfred
-cask dash
-cask google-chrome
-cask iterm2
-cask pgadmin4
-cask spectacle
-cask vlc
 
 tap caskroom/fonts
 cask font-myrica
+cask font-myricam
 
 tap heroku/brew
 brew heroku
@@ -72,13 +79,3 @@ brew heroku-node
 
 tap rcmdnk/file
 brew brew-file
-
-# Other Cask applications
-cask chromedriver
-cask dropbox
-cask font-myricam
-cask google-japanese-ime
-cask kitematic
-cask skype
-cask virtualbox
-cask zoomus
